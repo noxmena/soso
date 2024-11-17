@@ -9,6 +9,8 @@
       Title="Details">
 
     <Grid Background="AliceBlue">
+        <Label Width="300" Height="50" HorizontalAlignment="Center" VerticalAlignment="Top" HorizontalContentAlignment="Center" FontSize="36">Welcome</Label>
+        
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="400" Height="301">
 
             <StackPanel Orientation="Horizontal">
