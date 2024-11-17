@@ -1,0 +1,25 @@
+﻿<Page x:Class="MovieApp.Login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MovieApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Login">
+
+    <Grid Background="AliceBlue">
+
+        <StackPanel Width="400" Height="400">
+            <Label Content="Login" HorizontalAlignment="Center" FontSize="30"/>
+            <Label Content="Email" FontSize="23"/>
+            <TextBox Height="30" Name="emailtxt"/>
+            <Label Content="Password" FontSize="23"/>
+            <TextBox Height="30" Name="passwordtxt"/>
+            <Button Margin="30" Height="30" Width="200" Content="Login" FontSize="20" FontWeight="Bold" Background="#0096FF" Click="Button_Click_1"/>
+            <Button  Height="30" Width="200" Content="Signup" FontSize="20" FontWeight="Bold" Background="Transparent" BorderThickness="0" Click="Button_Click"/>
+            <Button  Height="30" Width="200" Content="Forget Password ?" FontSize="15" FontWeight="Bold" Background="Transparent" BorderThickness="0" Foreground="Blue" Click="Button_Click_2"/>
+        </StackPanel>
+        
+    </Grid>
+</Page>

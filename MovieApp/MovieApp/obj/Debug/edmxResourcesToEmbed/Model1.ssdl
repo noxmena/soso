@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MovieSystemModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Movies">
+    <Key>
+      <PropertyRef Name="MId" />
+    </Key>
+    <Property Name="MId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Mname" Type="varchar" MaxLength="40" />
+    <Property Name="Mcategory" Type="varchar" MaxLength="40" />
+    <Property Name="Mproducer" Type="varchar" MaxLength="40" />
+    <Property Name="Myear" Type="varchar" MaxLength="40" />
+    <Property Name="userId" Type="int" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="userName" Type="varchar" MaxLength="30" />
+    <Property Name="userEmail" Type="varchar" MaxLength="40" />
+    <Property Name="userPassword" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <Association Name="FK__Movies__userId__38996AB5">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Movies" Type="Self.Movies" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="Movies">
+        <PropertyRef Name="userId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MovieSystemModelStoreContainer">
+    <EntitySet Name="Movies" EntityType="Self.Movies" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Movies__userId__38996AB5" Association="Self.FK__Movies__userId__38996AB5">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Movies" EntitySet="Movies" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
