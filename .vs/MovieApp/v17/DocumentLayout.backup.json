@@ -3,54 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\MovieApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\allmovies.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\allmovies.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\allmovies.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\allmovies.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|c:\\users\\pc\\desktop\\movieapp\\movieapp\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\forgetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\forgetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -59,22 +11,78 @@
       "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\forgetpassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\allmovies.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\allmovies.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|c:\\users\\pc\\desktop\\movieapp\\movieapp\\details.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\details.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|c:\\users\\pc\\desktop\\movieapp\\movieapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\allmovies.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\allmovies.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\forgetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\forgetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|C:\\Users\\PC\\Desktop\\MovieApp\\movieapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF04F4E-560A-42F2-AFA2-3E62AAAB6711}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 549,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,113 +94,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Model1.edmx",
-              "RelativeDocumentMoniker": "MovieApp\\Model1.edmx",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "MovieApp\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-16T18:32:33.535Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Admin.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Admin.xaml.cs",
-              "RelativeDocumentMoniker": "MovieApp\\Admin.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Admin.xaml.cs",
-              "RelativeToolTip": "MovieApp\\Admin.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T10:02:44.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Details.xaml.cs",
-              "RelativeDocumentMoniker": "MovieApp\\Details.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Details.xaml.cs",
-              "RelativeToolTip": "MovieApp\\Details.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T09:13:21.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\App.xaml",
-              "RelativeDocumentMoniker": "MovieApp\\App.xaml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\App.xaml",
-              "RelativeToolTip": "MovieApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-16T08:29:40.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ForgetPassword.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\ForgetPassword.xaml.cs",
-              "RelativeDocumentMoniker": "MovieApp\\ForgetPassword.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\ForgetPassword.xaml.cs",
-              "RelativeToolTip": "MovieApp\\ForgetPassword.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwCUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:19:01.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Signup.xaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Signup.xaml.cs",
               "RelativeDocumentMoniker": "MovieApp\\Signup.xaml.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Signup.xaml.cs",
               "RelativeToolTip": "MovieApp\\Signup.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAuwDUAAAAQAAAAAAAAAA==",
+              "ViewState": "AQIAABcAAAAQmpmZmZkywDAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:01:48.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T08:01:48.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Login.xaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Login.xaml.cs",
               "RelativeDocumentMoniker": "MovieApp\\Login.xaml.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Login.xaml.cs",
               "RelativeToolTip": "MovieApp\\Login.xaml.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAvwDcAAAAfAAAAAAAAAA==",
+              "ViewState": "AQIAACgAAAAAyszMzEwUwDQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T07:52:14.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
               "Title": "Admin.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Admin.xaml",
               "RelativeDocumentMoniker": "MovieApp\\Admin.xaml",
               "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Admin.xaml",
               "RelativeToolTip": "MovieApp\\Admin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-16T07:46:41.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T07:46:41.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "Details.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Details.xaml",
               "RelativeDocumentMoniker": "MovieApp\\Details.xaml",
               "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Details.xaml",
               "RelativeToolTip": "MovieApp\\Details.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-16T07:46:34.046Z"
+              "WhenOpened": "2024-11-16T07:46:34.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -208,42 +153,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "ForgetPassword.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\ForgetPassword.xaml",
               "RelativeDocumentMoniker": "MovieApp\\ForgetPassword.xaml",
               "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\ForgetPassword.xaml",
               "RelativeToolTip": "MovieApp\\ForgetPassword.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-16T07:34:09.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AllMovies.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\AllMovies.xaml.cs",
-              "RelativeDocumentMoniker": "MovieApp\\AllMovies.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\AllMovies.xaml.cs",
-              "RelativeToolTip": "MovieApp\\AllMovies.xaml.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwDIAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:30:46.713Z",
+              "WhenOpened": "2024-11-16T07:34:09.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Signup.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Signup.xaml",
               "RelativeDocumentMoniker": "MovieApp\\Signup.xaml",
               "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Signup.xaml",
               "RelativeToolTip": "MovieApp\\Signup.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-16T07:33:55.5Z"
+              "WhenOpened": "2024-11-16T07:33:55.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Login.xaml",
               "RelativeDocumentMoniker": "MovieApp\\Login.xaml",
@@ -254,7 +188,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Model1.edmx",
+              "RelativeDocumentMoniker": "MovieApp\\Model1.edmx",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MovieApp\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-16T07:31:35.567Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgetPassword.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\ForgetPassword.xaml.cs",
+              "RelativeDocumentMoniker": "MovieApp\\ForgetPassword.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\ForgetPassword.xaml.cs",
+              "RelativeToolTip": "MovieApp\\ForgetPassword.xaml.cs",
+              "ViewState": "AQIAABUAAADwZGZmZuYpwBgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:19:01.132Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\App.xaml",
+              "RelativeDocumentMoniker": "MovieApp\\App.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\App.xaml",
+              "RelativeToolTip": "MovieApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T08:29:40.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AllMovies.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\AllMovies.xaml.cs",
+              "RelativeDocumentMoniker": "MovieApp\\AllMovies.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\AllMovies.xaml.cs",
+              "RelativeToolTip": "MovieApp\\AllMovies.xaml.cs",
+              "ViewState": "AQIAAEsAAACAXWZmZmYJwFgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:30:46.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Details.xaml.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Details.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Details.xaml.cs",
+              "RelativeToolTip": "MovieApp\\Details.xaml.cs",
+              "ViewState": "AQIAABMAAACgAwAAAAApwCsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:13:21.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Admin.xaml.cs",
+              "RelativeToolTip": "MovieApp\\Admin.xaml.cs",
+              "ViewState": "AQIAADYAAACAzMzMzMwQwEwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:02:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\packages.config",
+              "RelativeDocumentMoniker": "MovieApp\\packages.config",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\packages.config",
+              "RelativeToolTip": "MovieApp\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-16T10:20:32.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MovieApp\\MainWindow.xaml",
@@ -265,15 +283,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MovieApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "MovieApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA4AAACAMjMzMzMbwBgAAAAiAAAAAAAAAA==",
+              "ViewState": "AQIAAA4AAACAMjMzMzMbwBgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T07:29:29.74Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 549,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Details.xaml",
+              "RelativeDocumentMoniker": "MovieApp\\Details.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieApp\\MovieApp\\Details.xaml",
+              "RelativeToolTip": "MovieApp\\Details.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T20:51:05.389Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -30,5 +30,6 @@
             </Label.RenderTransform>
         </Label>
         <DataGrid Name="Movies" Margin="10,244,320,10"></DataGrid>
+        <Label Width="300" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Center" FontSize="36" Content="Welcome" Margin="54,-2,0,0"/>
     </Grid>
 </Page>
